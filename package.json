@@ -1,8 +1,9 @@
 {
   "name": "@indiflex/utils",
-  "version": "0.0.7",
+  "version": "0.0.9",
   "description": "indiflex utility functions",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "test"
   },
