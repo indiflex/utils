@@ -1,0 +1,24 @@
+{
+  "name": "@indiflex/utils",
+  "version": "0.0.7",
+  "description": "indiflex utility functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indiflex/utils.git"
+  },
+  "keywords": [
+    "utils",
+    "rand",
+    "range"
+  ],
+  "author": "indiflex",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/indiflex/utils/issues"
+  },
+  "homepage": "https://github.com/indiflex/utils#readme"
+}
